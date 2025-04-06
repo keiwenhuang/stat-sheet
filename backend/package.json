@@ -1,0 +1,18 @@
+{
+    "name": "basketball-stats-backend",
+    "version": "0.1.0",
+    "description": "Backend for Basketball Stats Tracking App",
+    "main": "main.py",
+    "scripts": {
+        "start": "uvicorn main:app --reload",
+        "test": "pytest"
+    },
+    "keywords": [
+        "basketball",
+        "statistics",
+        "fastapi",
+        "python"
+    ],
+    "author": "",
+    "license": "MIT"
+}
